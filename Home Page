@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Design One</title>
+<link href="css/container.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/responsive.css" rel="stylesheet" type="text/css">
+<link href="css/flaticon.css" rel="stylesheet" type="text/css">
+<link href="css/iconstyle.css" rel="stylesheet" type="text/css">
+</head>
+
+<body class="arial">
+  <div class="background-img"></div>
+  <div class="content-banner">
+     <div class="main-name">Company Name</div>
+     <div class="tag-line">This is Tag Line to be used.</div>
+     <div class="buttons">
+       <div class="button-register">Register Now</div>
+       <div class="blank-left-div">&nbsp;</div>
+       <div class="button-know-more">Learn More</div>
+     </div>
+  </div>
+  
+  <div class="content-start">
+  <div class="container content-first">
+    <div class="row">
+      <div class="span6 align-left"><img src="img/one.jpg" class="responsive-image" /></div>
+      <div class="span6 align-left">
+        <div class="heading">Marketing Tool for Your Business</div>
+        <div class="content-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nibh neque, convallis ut interdum a, consequat sit amet mauris. Vivamus sed tincidunt enim.</div>
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="row">
+      <div class="span12 second-content">
+        <div class="heading">Awesome Features Without Clutter</div>
+        <div class="grey-tag-line">Packed with all the features you want but not extra complexity</div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="span6">
+        <div class="feature-element">
+          <div class="feature-left"><div class="glyph">
+		   <div class="glyph-icon flaticon-2442"></div>
+		</div></div>
+          <div class="feature-right">
+            <div class="heading-in">Full Control On Design</div>
+            <div class="in-content-text">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</div>
+          </div>
+          <div class="clear"></div>
+        </div>
+        <div class="feature-element">
+          <div class="feature-left"><div class="glyph">
+		   <div class="glyph-icon flaticon-box49"></div>
+		</div></div>
+          <div class="feature-right">
+            <div class="heading-in">Responsive for Small Device</div>
+            <div class="in-content-text">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</div>
+          </div>
+          <div class="clear"></div>
+        </div>
+        <div class="feature-element">
+          <div class="feature-left"><div class="glyph">
+		   <div class="glyph-icon flaticon-call37"></div>
+		</div></div>
+          <div class="feature-right">
+            <div class="heading-in">Better Lead Management</div>
+            <div class="in-content-text">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</div>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+      
+      <div class="span6">
+        <div class="feature-element">
+          <div class="feature-left"><div class="glyph">
+		   <div class="glyph-icon flaticon-delivery26"></div>
+		</div></div>
+          <div class="feature-right">
+            <div class="heading-in">Strong Data Security</div>
+            <div class="in-content-text">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</div>
+          </div>
+          <div class="clear"></div>
+        </div>
+        <div class="feature-element">
+          <div class="feature-left"><div class="glyph">
+		   <div class="glyph-icon flaticon-phone322"></div>
+		</div></div>
+          <div class="feature-right">
+            <div class="heading-in">Drag And Drop Builder</div>
+            <div class="in-content-text">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</div>
+          </div>
+          <div class="clear"></div>
+        </div>
+        <div class="feature-element">
+          <div class="feature-left"><div class="glyph">
+		   <div class="glyph-icon flaticon-international11"></div>
+		</div></div>
+          <div class="feature-right">
+            <div class="heading-in">Built In Analytics</div>
+            <div class="in-content-text">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</div>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+    <div class="pad-bottom">&nbsp;</div>
+  </div>
+  <div class="clear"></div>
+  </div>
+  
+  <div class="content-banner2">
+    <div class="tag-line2">Are You Ready to Try This?</div>
+    <div class="tag-line3">Don't Wait, Just Start Using Today!</div>
+    <div class="button-center"><div class="button-register">Join Us Now</div></div>
+  </div>  
+ 
+  <div class="fotter">
+    <div class="fotter-text">© 2014, Commpany Name. All Right Reserved</div>
+  </div>
+  
+</body>
+</html>
