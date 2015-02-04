@@ -1,0 +1,37 @@
+body{ margin:0px;}
+.arial{ font-family:Arial, Helvetica, sans-serif;font-size:12px;}
+.verdana{ font-family:Verdana, Arial, Helvetica, sans-serif;font-size:12px;}
+.responsive-image{ height:auto;width:100%;}
+
+/* Custom Styles Starts Here */
+.background-img{ background-image:url(../img/bg.jpg);background-repeat:no-repeat;width:100%;height:100%;position:fixed;background-size: cover;background-position: center center;}
+.content-banner{ padding-top:150px;color:#FFFFFF;position:absolute;width:100%;}
+.main-name{ text-align:center;font-size:62px;}
+.tag-line{ text-align:center;font-size:32px;padding-top:20px;letter-spacing:2px;}
+.buttons{ padding-top:20px;text-align:center;}
+.button-register{ display:inline-block;padding:15px 0px 15px 0px;background-color:#FFFFFF;font-size:18px;color:#333333;width:20%;cursor:pointer;}
+.button-know-more{ display:inline-block;padding:14px 0px 14px 0px;background-color:transparent;font-size:18px;width:20%;border:solid 1px #FFFFFF;cursor:pointer;}
+.blank-left-div{ display:inline-block;padding-left:5px;}
+.content-start{ z-index:10;position:relative;background-color:#FFFFFF;width:100%;top:700px;margin-bottom:0px;}
+.content-first{ padding-top:50px;}
+.align-left{ text-align:left;}
+.heading{ font-size:32px;padding-bottom:10px;font-weight:bold;}
+.content-text{ padding-top:0px;line-height:24px;font-size:14px;}
+.test-border{ border:solid 1px #000000;}
+.alight-center{ text-align:center;}
+.second-content{ padding-top:50px;}
+.full-width{ width:100%;}
+.grey-tag-line{ color:#666666;font-size:18px;letter-spacing:1px;}
+.feature-element{ text-align:left;padding-top:20px;padding-bottom:20px;}
+.feature-left{ float:left;width:20%;}
+.feature-right{ float:left;width:80%;padding-left:5%;}
+.heading-in{ font-size:20px;padding-top:0px;font-weight:bold;}
+.in-content-text{ padding-top:0px;line-height:24px;font-size:14px;color:#666666;}
+.content-banner2{ padding-top:0px;color:#FFFFFF;position:relative;width:100%;top:800px;padding-bottom:100px;}
+.tag-line2{ text-align:center;font-size:32px;padding-top:20px;}
+.tag-line3{ text-align:center;font-size:22px;padding-top:20px;}
+.button-center{ text-align:center;padding-top:20px;}
+.pad-bottom{ padding-bottom:30px;}
+
+.fotter{ position:relative;width:100%;background-color:#FFFFFF;margin-top:820px;padding:10px;bottom:0;}
+.fotter-text{ font-size:14px;text-align:center;padding-top:10px;padding-bottom:10px;}
